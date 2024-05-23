@@ -1,13 +1,13 @@
 # 2024 Question 2
 
 ## This question is about:
-- 
+- A class called ScoreBoard where you have to keep track of two teams scores and which team is active.
 
 ## Struggles with this question:
-_
+- I didn't realize I needed a boolean variable to keep track of which team is active.
 
 ## Prior experiences that helped:
-- 
+- The project where we wrote classes helped develop the constructors, variables, and methods needed for this question.
 
 ## What I learned by doing this question:
-- 
+- I learned what variables you would need for this situation.
