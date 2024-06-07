@@ -22,7 +22,14 @@ public boolean isWordChain(){
         }
       return true;
      }
-
+      
+    /**
+    * Returns an ArrayList<String> based on str
+    * with target, as described in part (b). Each elen
+    * the initial occurrence of target removed.
+    * Postconditions: wordList is unchanged.
+    * Items appear in the returned list in the same or * /
+    */
      public ArrayList <String> createList(String target){
        ArrayList <String> result = new ArrayList <String>();
        for(int i = 0; i < wordList.size(); i++){
