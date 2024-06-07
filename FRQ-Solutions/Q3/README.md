@@ -7,7 +7,7 @@
 - I didn't have any particular struggles with this but it took a bit to understand the question compared to the other questions, especially part b.
 
 ## Prior experiences that helped:
-- Working with String methods helped a lot in this question as `.substring()` and `indexOf()` were used in this question.
+- Working with String methods helped a lot in this question as `.substring()` and `.indexOf()` were used in this question.
 
 ## What I learned by doing this question:
 - I learned, finally, how to properly declare an array list correctly so that i wouldn't lose any points.
