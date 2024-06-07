@@ -37,6 +37,7 @@ public int simulateManyDays (int numBirds, int number) {
  int i = 0;
  while(i < number){
    simulateOneDay(numBirds);
+   count++;
    if(currentFood > 0){
      count++;
     }
