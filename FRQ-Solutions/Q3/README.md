@@ -1,7 +1,7 @@
 # 2024 Question 3
 
 ## This question is about:
-- We have to keep track of a array list of Strings and we have to write two methods. These two methods were `isWordChain()` and `createList()`. The method, `isWordChain()`, checks if the previous word is in the next word. The method, `createList()`, creates a list that contains the words in the array with the string target and then removes target from that word.             
+- We have to keep track of a array list of Strings and we have to write two methods. These two methods were `isWordChain()` and `createList()`. The method, `isWordChain()`, checks if the previous word is in the next word. The method, `createList()`, creates a list that contains the words in the array with the string target and then removes target from each word.             
 
 ## Struggles with this question:
 - I didn't have any particular struggles with this but it took a bit to understand the question compared to the other questions, especially part b.
