@@ -1,7 +1,7 @@
 # 2024 Question 1
 
 ## This question is about:
-- Create two methods in the Feeder class,`SimulateOneDay()` and simulateManyDays(), in which you simulate when a bird eats at a bird feeder or rarely, a bear.
+- Create two methods in the Feeder class,`SimulateOneDay()` and `SimulateManyDays()`, in which you simulate when a bird eats at a bird feeder or rarely, a bear.
 
 ## Struggles with this question:
 - I had an issue where I didn't realize that when caculating the 5 percent chance of the bear coming,I couldn't do radnom < 95, simce it would add 6 percent so I would have to do radnom <= 95.
