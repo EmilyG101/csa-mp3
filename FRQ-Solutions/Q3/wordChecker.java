@@ -12,7 +12,7 @@ public class wordChecker{
     * element as a substring and returns false otherwise, as describe
     * Precondition: wordList contains at least two elements.
     * Postcondition: wordList is unchanged.
-    /*
+    */
   
 public boolean isWordChain(){
         for(int i =0; i< wordList.size(); i++){
