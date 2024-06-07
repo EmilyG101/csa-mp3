@@ -10,7 +10,10 @@ public class GridPath {
     this.grid = grid;
   }
 
-  // PART A (uncomment first)
+  /**
+  * Returns the Location representing a neighbor of the gr as described in part (a)
+  *row and col do not specify the element in the last row
+  */
   public Location getNextLoc(int row, int col) {
     if(row == grid.length - 1){
       return new Location(row, col+1);
@@ -23,7 +26,10 @@ public class GridPath {
    }
 
   
-  // PART B
+  /**
+  * Computes and returns the sum of all values on a path through grid, as described in
+  * Preconditions: row is a valid row index and col is a valid column index in grid. row and col do not specify the element in the last row and last column of grid.
+  */
   public int sumPath(int row, int col) {
     int sum = 0;
     while(!(row == grid.length-1 && col == grid[0].length-1 )){
