@@ -4,7 +4,7 @@
 - This question has two classes, Location and GridPath. You have to use these classes to traverse through a 2D-array and complete the required methods, `getNextLoc()` and `sumPath()`.       
 
 ## Struggles with this question:
-- I didn't understand what the location class was for so I spent a lot more time on this question than compared to the others.
+- I didn't understand what the Location class was for so I spent a lot more time on this question than compared to the others.
 
 ## Prior experiences that helped:
 - Traversing through a 2D array with for loops helped in this question a lot for using the classes.
