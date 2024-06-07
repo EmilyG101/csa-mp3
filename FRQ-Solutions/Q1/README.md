@@ -10,4 +10,4 @@
 - Learning how to write `Math.random()` was a huge help, especially since I had to use it twice in this question and is a must to learn if you haven't.
 
 ## What I learned by doing this question:
-- I learned how to perfectly write the `Math.random()` function.
+- I learned how to perfectly write the `Math.random()` function right before the ap test.
