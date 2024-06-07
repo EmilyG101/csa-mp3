@@ -12,7 +12,10 @@ public class Scoreboard {
     team2Score = 0;
     active = true;
   }
-
+  
+  /**
+  *This method keeps track of which team is active and gives the proper score to each team.
+  */
   public void recordPlay(int num){
     if(num == 0){
       active = !active;
@@ -24,6 +27,9 @@ public class Scoreboard {
     }
   }
 
+  /**
+  *This method shows a display of the scores for each team.
+  */
   public String getScore(){
     if(active){
       return team1Score + "-" + team2Score + "-" + team1Name;
