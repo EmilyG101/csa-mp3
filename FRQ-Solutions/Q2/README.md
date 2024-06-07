@@ -10,4 +10,4 @@
 - The project where we wrote classes helped develop the constructors, variables, and methods needed for this question.
 
 ## What I learned by doing this question:
-- I learned what variables you would need for this situation.
+- I learned what variables you would need for this situation like the boolean to signify which team is active so that the display for the score board can give the proper points.
